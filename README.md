@@ -1,5 +1,6 @@
 # A fragile theme for Discord
 <i>idk how to show an image without basically doxxing my whole friend list or chats but I'll figrue out a way one day...</i>
+
 Well... this theme is copypasted from this "animated glass theme" on [VSThemes](https://vsthemes.org/en/skins/discord/68455-animated-glass.html), but I tweaked some things.
 - First of all, when zooming on an image there's not a gray-ish screen anymore, but instead the default darker one;
 - This should have probably been the first instead, a new wallpaper stolen from [here](https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif) (it looked cool), but it is easily editable by switching up the link at the bottom of everything;
