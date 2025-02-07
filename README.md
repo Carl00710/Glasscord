@@ -12,5 +12,7 @@ If you have either [Betterdiscord](https://betterdiscord.app/) or [Vencord](http
 
 # Small list of stuff I would like to add:
 〰️ More tweaks so that it can be actually considered unique and not just copy-pasted code;
+
 ✔️ A better font than COMIC SANS (now uses Rubik, Jetbrains Mono and Noto Sans JP)
+
 - Idk how that will ever work, but a way to use Wallpaper Engine Wallpapers on it (a friend suggested that)
